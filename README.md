@@ -3,7 +3,7 @@ Dismiss Privacy Tools added in WordPress 4.9.6 (completely) when it is activated
 
 Features:
 
- * Disable Privacy Toool /wp-admin/privacy.php
+ * Disable Privacy Tool /wp-admin/privacy.php
  * Disable Erase Personal Data /wp-admin/tools.php?page=erase_personal_data
  * Disable Export Personal Data /wp-admin/tools.php?page=export_personal_data
  * Dismiss pointer for the new privacy tools.
