@@ -10,4 +10,5 @@ Features:
  * Remove scheduled event used to delete old export files.
  * Remove scheduled hook used to delete old export files.
  * Short circuits the option for the privacy policy page to always return 0 to avoid unneeded database query.
- * Delete unneeded database options and reset options to default.
+ * Delete unneeded database options.
+ * Reset all options to default.
