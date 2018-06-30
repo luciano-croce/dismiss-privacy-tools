@@ -1,5 +1,5 @@
 # Dismiss Privacy Tools
-Dismiss Privacy Tools added in WordPress 4.9.6 (completely) when it is activated, or if it is in mu-plugins directory.
+Dismiss Privacy Tools added in WordPress 4.9.6 completely (GDPR OFF) and reset options to default, when it is activated, or if it is in mu-plugins directory.
 
 Features:
 
